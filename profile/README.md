@@ -11,11 +11,10 @@
 ---
 
 ## 📖 Explora Más
+<a href="https://desbloqueolibre.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide_Now-3498db" alt="Install Guide Now" width="275" height="60" style="border:none;">
+</a>
 
-- [![Ver Instrucciones Detalladas](https://img.shields.io/badge/Ver_Instrucciones_Detalladas-AHORA-00cc00?style=flat-square&labelColor=1a1a1a)](https://github.com/DesbloqueoLibre/.github)
-- [![Iniciar Tutorial](https://img.shields.io/badge/Iniciar_Tutorial-AHORA-00cc00?style=flat-square&labelColor=1a1a1a)](https://github.com/DesbloqueoLibre/UnlockTool-Gratis-2025)
-
----
 
 ## 🔎 Palabras Clave SEO
 
